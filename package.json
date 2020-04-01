@@ -1,0 +1,33 @@
+{
+  "name": "digital-home",
+  "version": "0.0.1",
+  "description": "Reza's digital home.",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "ruby": "^0.6.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-notify": "^3.2.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-ruby-sass": "^4.0.0",
+    "gulp-uglify": "^3.0.2",
+    "gulp-util": "^3.0.8",
+    "node-sass": "^4.13.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rezaarkan/digital-home.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rezaarkan/digital-home/issues"
+  },
+  "homepage": "https://github.com/rezaarkan/digital-home#readme"
+}
