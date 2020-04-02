@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+			"name": "Digital Home"
+		},
+		{
+			"path": "_sass/",
+			"name": "Styles"
+		},
+		{
+			"path": "_site/",
+			"name": "Site"
+		},
+	]
+}

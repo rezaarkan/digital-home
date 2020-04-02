@@ -18,7 +18,7 @@ const assets = function(){
 const css = function(){
   return gulp.src(cssSrcPath + cssSrcName)
     .pipe($.sourcemaps.init())
-    .pipe($.sass().on('error', $.sass.logError))
+    .pipe($.sass({outputStyle: 'compressed'}).on('error', $.sass.logError))
     .pipe($.autoprefixer({
       cascade: false
     }))
