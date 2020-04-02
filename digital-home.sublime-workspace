@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
 				"ass",
 				"assetsDestPath"
 			],
@@ -23,6 +35,32 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 337,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 2361,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_sass/pages/under-construction.scss",
+			"settings":
+			{
+				"buffer_size": 399,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -72,15 +110,28 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/rezaarkan/Documents/Repositories/digital-home"
+		"/Users/rezaarkan/Documents/Repositories/digital-home",
+		"/Users/rezaarkan/Documents/Repositories/digital-home/_includes",
+		"/Users/rezaarkan/Documents/Repositories/digital-home/_layouts",
+		"/Users/rezaarkan/Documents/Repositories/digital-home/_sass"
 	],
 	"file_history":
 	[
-		"/Users/rezaarkan/Documents/Repositories/digital-home/index.markdown",
-		"/Users/rezaarkan/Documents/Repositories/digital-home/Gemfile",
-		"/Users/rezaarkan/Documents/Repositories/digital-home/_sass/main.scss",
-		"/Users/rezaarkan/Documents/Repositories/digital-home/_sass/vendors/normalize.scss",
+		"/Users/rezaarkan/Documents/Repositories/digital-home/_layouts/temp.html",
+		"/Users/rezaarkan/Documents/Repositories/digital-home/assets/css/main.scss",
+		"/Users/rezaarkan/Documents/Repositories/digital-home/about.markdown",
+		"/Users/rezaarkan/Documents/Repositories/digital-home/_posts/2020-04-01-welcome-to-jekyll.markdown",
+		"/Users/rezaarkan/Documents/Repositories/digital-home/_includes/head.html",
+		"/Users/rezaarkan/Documents/Repositories/digital-home/_layouts/default.html",
 		"/Users/rezaarkan/Documents/Repositories/digital-home/_config.yml",
+		"/Users/rezaarkan/Documents/Repositories/digital-home/Gemfile",
+		"/Users/rezaarkan/Documents/Repositories/digital-home/index.markdown",
+		"/Users/rezaarkan/Documents/Repositories/digital-home/_sass/main.scss",
+		"/Users/rezaarkan/Documents/Repositories/digital-home/gulpfile.js",
+		"/Users/rezaarkan/Documents/Repositories/digital-home/_sass/vendors/bootstrap-reboot.scss",
+		"/Users/rezaarkan/Documents/Repositories/digital-home/_sass/vendors/bootstrap-grid.scss",
+		"/Users/rezaarkan/Documents/Repositories/digital-home/digital-home.sublime-project",
+		"/Users/rezaarkan/Documents/Repositories/digital-home/_sass/vendors/normalize.scss",
 		"/Users/rezaarkan/Documents/Repositories/digital-home/Gemfile.lock",
 		"/Users/rezaarkan/Documents/Repositories/digital-home/_site/dist/main.css",
 		"/Users/rezaarkan/Documents/Repositories/digital-home/_styles/main.scss",
@@ -105,6 +156,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"seo"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -122,8 +174,96 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_layouts/default.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 337,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1500,
+								1500
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 189.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_sass/pages/under-construction.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 399,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								397,
+								397
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
 			]
 		},
 		{
@@ -188,6 +328,26 @@
 		"selected_items":
 		[
 			[
+				"conf",
+				"Digital Home/_config.yml"
+			],
+			[
+				"config",
+				"Digital Home/_config.yml"
+			],
+			[
+				"temp",
+				"Digital Home/_layouts/temp.html"
+			],
+			[
+				"inde",
+				"Digital Home/index.markdown"
+			],
+			[
+				"gul",
+				"Digital Home/gulpfile.js"
+			],
+			[
 				"pack",
 				"package-lock.json"
 			],
@@ -224,7 +384,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
@@ -232,7 +392,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 199.0,
+	"side_bar_width": 233.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
