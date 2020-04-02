@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "lodash": "^4.17.15",
+    "lodash.template": "^4.5.0",
     "ruby": "^0.6.1"
   },
   "devDependencies": {
